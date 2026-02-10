@@ -1,3 +1,1 @@
-# MyProject1
-
-This is an empty project.
+A simple HTML/JS/CSS starter template
